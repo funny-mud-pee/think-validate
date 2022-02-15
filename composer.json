@@ -1,0 +1,24 @@
+{
+  "name": "funny-mud-pee/think-result",
+  "type": "library",
+  "description": "return code/message utilities for thinkphp",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "funnymudpee",
+      "email": "2114164829@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "topthink/framework": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "funnymudpee\\thinkphp\\": "src"
+    },
+    "files": [
+      "src/helper.php"
+    ]
+  }
+}
