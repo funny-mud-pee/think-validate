@@ -1,7 +1,7 @@
 {
-  "name": "funny-mud-pee/think-result",
+  "name": "funny-mud-pee/think-validate",
   "type": "library",
-  "description": "return code/message utilities for thinkphp",
+  "description": "extend for topthink/think-validate",
   "license": "MIT",
   "authors": [
     {
